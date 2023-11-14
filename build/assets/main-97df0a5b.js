@@ -1,0 +1,1 @@
+document.querySelector(".nav-image img");document.addEventListener("scroll",e=>{});const t=document.querySelector(".mobile-menu-icon"),o=document.querySelector(".mobile-nav");t.addEventListener("click",e=>{e.preventDefault(),document.body.classList.toggle("static"),o.classList.toggle("active")});
